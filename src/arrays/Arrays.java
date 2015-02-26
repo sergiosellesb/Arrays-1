@@ -3,7 +3,7 @@ package arrays;
 /**
  *
  * @author Jordi
- * @version 1.0
+ * @version 1.0 pepeliso
  */
 import java.util.Scanner;
 
